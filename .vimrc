@@ -35,7 +35,6 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim' " let Vundle manage Vundle, required
 Plugin 'tpope/vim-fugitive'
 Bundle 'ervandew/supertab'
-Plugin 'Valloric/YouCompleteMe'
 Plugin 'marijnh/tern_for_vim'
 Plugin 'suan/vim-instant-markdown'
 Bundle 'tpope/vim-surround'
